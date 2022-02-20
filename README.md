@@ -1,4 +1,4 @@
-### Hi there 👋 , my name Pedro Lucas Adorno.
+### Hi there 👋 , my name is Pedro Lucas Adorno.
 
 <div align="center">
   <a href="https://github.com/Pedro-254">
